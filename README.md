@@ -1,6 +1,6 @@
 ## Dependencies
 
-2019-10-07: add py3 version
+2019-10-07: Xuancheng - add py3 version and add a function to confirm 4 corners are from 2*2 lines 
 
 These scripts need python 2.7+ and the following libraries to work:
 
@@ -81,5 +81,5 @@ If you have any problem installing the dependencies, contact the author.
 ##About
 
 * [Github repository](https://github.com/joyeecheung/perspective-correction)
-* Author: Qiuyi Zhang
+* Original Author: Qiuyi Zhang
 * Time: Apr. 2015
