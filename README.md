@@ -1,5 +1,7 @@
 ## Dependencies
 
+2019-10-07: add py3 version
+
 These scripts need python 2.7+ and the following libraries to work:
 
 1. pillow(~2.8.1)
