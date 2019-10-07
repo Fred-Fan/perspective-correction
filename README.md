@@ -2,7 +2,7 @@
 
 2019-10-07: Xuancheng - add py3 version and add a function to confirm 4 corners are from 2*2 lines 
 
-These scripts need python 2.7+ and the following libraries to work:
+These scripts need the following libraries to work:
 
 1. pillow(~2.8.1)
 2. numpy(~1.9.0)
